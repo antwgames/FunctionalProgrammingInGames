@@ -76,5 +76,5 @@ Functional Programming In Games
 * [Elm Flyer](http://jcollard.github.io/elm-flyer/) made with Elm. [Source](https://github.com/jcollard/elm-flyer-2014).
 * [Castle of Elm](http://www.castleofelm.com/) 7DRL game made in Elm. [Source](https://github.com/doppioslash/CastleOfElm), [slides](http://slides.com/doppioslash/the-elm-language-livjavascriptug) on Elm and developing a game jam game with it.
 
-##Note
+## Note
 Actually, I'm thinking that logic programming resources could also live here, perhaps we need to rename this? 
